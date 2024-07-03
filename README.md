@@ -1,17 +1,49 @@
-<h1 align="center">Rattanakoudom Sambath</h1>
-<h3 align="center">A passionate IOS Mobile Developer</h3>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/35184091/170960598-ed4e52cb-fe2a-4364-b241-5e436ec1bd55.gif" alt="animated" />
-</p>
-<p>Hello! I'm Oudom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
-- Under Construction
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_0xdom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_0xdom" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rattanakoudom-sambath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rattanakoudom-sambath" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10775602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10775602" height="30" width="40" /></a>
-<a href="https://medium.com/@rattanakoudomsambath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rattanakoudomsambath" height="30" width="40" /></a>
-</p>
+# 👋 Hello, I'm Oudom!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+I'm a Senior iOS Developer based in Cambodia with a passion for creating innovative mobile applications and transforming ideas into impactful apps. I have extensive experience in building, deploying, and maintaining high-quality iOS applications. My goal is to leverage my skills to build a startup and contribute to the tech community.
+
+## 🚀 About Me
+- 📱 Senior iOS Developer with over 4 years of experience
+- 🌍 Based in Cambodia
+- 💡 Passionate about tech, startups, trending tech, cyber security, and stock trading
+- 🎯 Goal: To create personal apps and build a successful startup
+
+## 🛠️ Skills
+- Swift, Objective-C, Flutter
+- UIKit, SwiftUI
+- Core Data, Realm, SQLite
+- RESTful APIs
+- CI/CD
+- Git, GitHub, Bitbucket
+- Agile/Scrum methodologies
+- Kanban/Pair Programming methodologies
+- Figma/Adobe XD
+- MVC/MVVM/MVVMC/MVP
+
+## 📈 GitHub Stats
+
+![States](https://github-readme-stats.vercel.app/api?username=OudomSec&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OudomSec&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔥 GitHub Contributions
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=OudomSec&theme=react-dark&hide_border=true&area=true)
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/rattanakoudom-sambath)
+- [Twitter](https://twitter.com/_0xdom)
+- [Email](mailto:sambathoudom1@example.com)
+
+## 🌟 Notable Projects
+- **STARS By Pathmazing**: STARS By Pathmazing is an innovative employee engagement app, designed to elevate employee experience with timely recognition and rewards, proudly enhanced with new capabilities for attendance management.
+- **Live By. Wonderpass**: LIVE. is the Wonderpass solution focused on events, venues and attractions in Cambodia. Enjoy the benefits of the Wonderpass system: digital tickets for your favorite live events, like sports, concerts and conventions; manage multiple people in one account, perfect for families or groups; take it to the next level with Wonderpass tech wearables, like wristbands and tags that allow you to access events and pay with just a tap! Wonderpass is proudly endorsed by the Ministry of Tourism of Cambodia.
+
+- **Cambo Decor**: Utilize the Cambo Decor App for making the most of your time on the job site, reduce overhead expenses, and streamline the material procurement procedure. You may shop whenever you want, from anywhere, and get all the building supplies you require in one location. For quick, adaptable, and dependable service that will keep your project on schedule, get professional assistance. With its at least 10,000 product catalog and brands that contractors are familiar with and trust, Cambo Decor App offers a variety of delivery choices to help you keep things moving on the job site.
+- **Camboticket**: Camboticket is the leading online platform to book your bus tickets, ferry tickets, private taxis and tours and activities in Cambodia, Laos and neighbouring countries. We work with more than 100 transportation and tour suppliers and provide you with a large choice of inventory.
+- **ACLEDA Mobile**: ‎ACLEDA mobile is a FinTech Application running on Smart Phone, enabling customers to do banking transactions from anywhere, anytime.
+
+## ✍️ Blog Posts
+- [Medium](https://medium.com/@rattanakoudomsambath)
+
+Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
