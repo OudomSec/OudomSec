@@ -24,11 +24,7 @@ I'm a Senior iOS Developer based in Cambodia with a passion for creating innovat
 
 ![States](https://github-readme-stats.vercel.app/api?username=OudomSec&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OudomSec&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🔥 GitHub Contributions
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=OudomSec&theme=react-dark&hide_border=true&area=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OudomSec&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/rattanakoudom-sambath)
